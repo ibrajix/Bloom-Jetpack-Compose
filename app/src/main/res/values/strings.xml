@@ -10,4 +10,30 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+
+    <string name="welcome_text">Beautiful home garden solutions</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Log in</string>
+    <string name="login_with_email">Log in with email</string>
+    <string name="email_address">Email address</string>
+    <string name="password_hint">Password (8+ Characters)</string>
+    <string name="login_helper">By clicking below, you agree to our Terms of Use and consent to our Privacy Policy</string>
+    <string name="search">Search</string>
+    <string name="browse_themes">Browse themes</string>
+    <string name="design_home_garden">Design your home garden</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="cart">Cart</string>
+    <string name="desert_chick">Desert chic</string>
+    <string name="tiny_terrariums">Tiny terrariums</string>
+    <string name="jungle_vibes">Jungle vibes</string>
+    <string name="easy_care">Easy care</string>
+    <string name="statements">Statements</string>
+    <string name="monstera">Monstera</string>
+    <string name="aglaonema">Aglaonema</string>
+    <string name="fiddle_leaf_tree">Fiddle leaf tree</string>
+    <string name="snake_plant">Snake plant</string>
+    <string name="pothos">Pothos</string>
+
 </resources>
